@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\Supermarket.Api.dll
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\Supermarket.Api.deps.json
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\Supermarket.Api.runtimeconfig.json
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\Supermarket.Api.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.dll
+C:\Users\Administrator\source\repos\Supermarket.Api\obj\Debug\netcoreapp2.1\Supermarket.Api.pdb
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\Supermarket.Api.pdb
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\source\repos\Supermarket.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
