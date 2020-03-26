@@ -23,5 +23,6 @@ namespace Supermarket.Api.Resources
         public int Id3 { get; set; }
 
         public int Id4 { get; set; }
+
     }
 }
