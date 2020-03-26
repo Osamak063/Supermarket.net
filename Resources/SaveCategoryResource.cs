@@ -17,5 +17,12 @@ namespace Supermarket.Api.Resources
         public string Name2 { get; set; }
 
         public int Id { get; set; }
+
+        public int Id2 { get; set; }
+
+        public int Id3 { get; set; }
+
+        public int Id4 { get; set; }
+
     }
 }
