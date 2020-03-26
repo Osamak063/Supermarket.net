@@ -7,6 +7,6 @@ namespace Supermarket.Api.Resources
 {
     public class TestClass
     {
-        public string testname;
+        
     }
 }
