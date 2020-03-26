@@ -12,6 +12,10 @@ namespace Supermarket.Api.Resources
         [MaxLength(30)]
         public string Name { get; set; }
 
+        [Required]
+        [MaxLength(30)]
+        public string Name2 { get; set; }
+
         public int Id { get; set; }
 
         public int Id2 { get; set; }
